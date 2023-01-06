@@ -1,0 +1,23 @@
+.header{
+    height: 200px;
+    /* background-image: url('../hijab2.jpg'); */
+    /* background-image: url('hijab.jpg'); */
+    background-image: url('hijab2.jpg')
+    back
+}
+    
+h3{
+    color: red;
+}
+p{
+    color: blueviolet;
+}
+.page-title{
+    font-weight: 800;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/* .header{
+    color: blueviolet;
+    height: 200px;
+    background-image: url(hijab.jpg);
+} */
